@@ -41,4 +41,15 @@ object boliche {
 	return "no esta bailando"
 	}
 	
+	method todosBailan1(){
+		pista1.bailar();
+	}
+	
+	method todosBailan2(){
+		pista2.bailar();
+	}
+	
+	method todosBailan3(){
+		pista3.bailar();
+	}
 }
